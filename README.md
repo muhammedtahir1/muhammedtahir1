@@ -1,12 +1,10 @@
-**Tahir**
+## Tahir
 
 Turning ideas into reality. Focused on creating digital solutions that solve real-world problems. I'm constantly learning and evolving, striving to be better than I was yesterday.
 Currently jamming with `Next.js` and `TypeScript`.
 
-P.S. I'm always down for cool projects and collaborations. Let's build something great together!
-
+P.S. I'm always down for cool projects and collaborations. Let's build something great together. Hit me up!
 <p align="center">
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mohammed-tahir-1b1230259/"> 
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
@@ -15,9 +13,9 @@ P.S. I'm always down for cool projects and collaborations. Let's build something
 <a style="margin-left: 10px;" target="_blank" href="mailto:mohammedtahir65080@gmail.com">
 			<img src="https://img.icons8.com/?size=48&id=EgRndDDLh8kS&format=png" ></a>
       </div>
-
 </p>
 
+----------------------------------
 
 ## ⚡ Projects
 |Name|Description|TechStack |Code & Demo|status|
